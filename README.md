@@ -4,9 +4,7 @@
 
 # Sample HTML website 
 
-This is a simple HTML/CSS/JS web app that you can deploy to Azure. 
-
-It is built on the [Carousel template](http://getbootstrap.com/examples/carousel/) by [Bootstrap](http://getbootstrap.com/).
+This is a simple HTML/CSS web app that you can deploy to Azure. 
 
 ## License
 
